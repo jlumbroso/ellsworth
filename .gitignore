@@ -1,0 +1,8 @@
+# macOS metadata
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints
+
+# Visual Studio Code metadata
+.vscode
